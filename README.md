@@ -1,4 +1,9 @@
 # CasaOS - Your Personal Cloud 
+
+To run:
+cd ~/CasaOS
+sudo /usr/local/go/bin/go run .
+
 <!-- Readme i18n links -->
 <!-- > English | [中文](#) | [Français](#) -->
 
